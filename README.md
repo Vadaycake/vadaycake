@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.svg" alt="banner" width="100%"/>
+</p>
 
-<!--
-**Vadaycake/vadaycake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,bash" />
+</p>
+
+## ⚙️ Tools & Environments
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode,linux,apple" />
+</p>
+
+## 🖥️ Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,apple" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaday&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaday&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
+</p>
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaday&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaday&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
+</p>
