@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vaday." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vaday!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/ugP_d8ga8REAAAAd/flying-jump-out.gif" alt="Spider-Verse" width="480"/>
 </p>
 
 ---
