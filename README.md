@@ -7,7 +7,7 @@
 ## 🌐 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,bash" />
+  <img src="https://skillicons.dev/icons?i=c,ocaml,python,bash" />
 </p>
 
 ## ⚙️ Tools & Environments
@@ -21,6 +21,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,apple" />
 </p>
-
----
 
