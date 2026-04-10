@@ -1,0 +1,23 @@
+<svg width="100%" viewBox="0 0 1280 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0f0c29"/>
+<stop offset="50%" stop-color="#302b63"/>
+<stop offset="100%" stop-color="#24243e"/>
+</linearGradient>
+<linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#6c63ff" stop-opacity="0.4"/>
+<stop offset="100%" stop-color="#b24dff" stop-opacity="0.3"/>
+</linearGradient>
+<linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#4facfe" stop-opacity="0.25"/>
+<stop offset="100%" stop-color="#6c63ff" stop-opacity="0.2"/>
+</linearGradient>
+</defs>
+<rect width="1280" height="300" fill="url(#bg)"/>
+<path d="M0 200 Q160 140 320 180 T640 160 T960 190 T1280 150 L1280 300 L0 300Z" fill="url(#wave1)"/>
+<path d="M0 230 Q200 180 400 220 T800 200 T1280 210 L1280 300 L0 300Z" fill="url(#wave2)"/>
+<path d="M0 260 Q300 230 600 250 T1280 240 L1280 300 L0 300Z" fill="#4facfe" opacity="0.12"/>
+<text x="640" y="135" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="2">VADAY</text>
+<text x="640" y="175" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400" fill="#c0c0e0" letter-spacing="4">Student · Developer · Maker</text>
+</svg>
