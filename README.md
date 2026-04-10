@@ -24,16 +24,3 @@
 
 ---
 
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaday&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaday&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
-</p>
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaday&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaday&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="200"/>
-</p>
